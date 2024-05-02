@@ -7,8 +7,3 @@ print ("Python" in course)
 print(course.strip())
 
 
-fstring = "f strings"
-txt = f"testing {fstring}"
-
-print(txt)
-
