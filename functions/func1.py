@@ -7,3 +7,6 @@ def rect(d1, d2):
 x, _, _ = rect(2, 5)
 
 print(x)
+
+y = 200
+print(isinstance(y, str))

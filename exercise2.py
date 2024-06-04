@@ -2,8 +2,8 @@
 
 currency_type = input("Convert to USD or GBP?: ")
 
-usd_1 = 1444 
-gbp_1 = 1900
+usd_1 = 1294 
+gbp_1 = 1600
 
 if currency_type.upper() == "USD":
     dollar_amount = int(input("Enter dollar amount: "))
